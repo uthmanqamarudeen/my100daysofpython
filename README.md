@@ -13,3 +13,8 @@ This repository documents my journey through the "100 Days of Code: The Complete
 - Build consistency.
 - Document my learning process.
 - Create a portfolio of Python projects.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/qamarudeen-uthman)
+- [Twitter/X](https://x.com/drglam_medtech)
+<!-- - [Portfolio](https://yourportfolio.com) -->
