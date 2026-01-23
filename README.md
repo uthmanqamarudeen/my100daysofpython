@@ -6,6 +6,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 
 | Day | Project | Status | Notes |
 |:---:|:---|:---:|:---|
+| 3 | Treasure Island | Completed | [Day 3](./day_3/) |
 | 4 | Rock Paper Scissors | Completed | [Day 4](./day_4/) |
 | 5 | Password Generator | Completed | [Day 5](./day_5/) |
 | 6 | Reeborg's World | Completed | [Day 6](./day_6/) |
