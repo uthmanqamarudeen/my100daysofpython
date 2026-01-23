@@ -6,6 +6,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 
 | Day | Project | Status | Notes |
 |:---:|:---|:---:|:---|
+| 6 | Reeborg's World | Completed | [Day 6](./day_6/) |
 | 7 | Hangman | Completed | [Day 7](./day_7/) |
 | 8 | Caesar Cipher | Completed | [Day 8](./day_8/) |
 | 9 | Secret Auction | Completed | [Day 9](./day_9/) |
