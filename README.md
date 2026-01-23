@@ -6,6 +6,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 
 | Day | Project | Status | Notes |
 |:---:|:---|:---:|:---|
+| 1 | Band Name Generator | Completed | [Day 1](./day_1/) |
 | 2 | Tip Calculator | Completed | [Day 2](./day_2/) |
 | 3 | Treasure Island | Completed | [Day 3](./day_3/) |
 | 4 | Rock Paper Scissors | Completed | [Day 4](./day_4/) |
