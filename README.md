@@ -7,7 +7,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | Day | Project | Status | Notes |
 |:---:|:---|:---:|:---|
 | 11 | Blackjack Capstone | Completed | [Day 11](./day_11/) |
-| 12 | Number Guessing Game | In Progress | [Day 12](./day_12/) |
+| 12 | Number Guessing Game | Completed | [Day 12](./day_12/) |
 
 ## Goals
 - Build consistency.
@@ -17,4 +17,5 @@ This repository documents my journey through the "100 Days of Code: The Complete
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/qamarudeen-uthman)
 - [Twitter/X](https://x.com/drglam_medtech)
+- [Facebook](https://web.facebook.com/profile.php?id=100084879986993)
 <!-- - [Portfolio](https://yourportfolio.com) -->
