@@ -6,6 +6,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 
 | Day | Project | Status | Notes |
 |:---:|:---|:---:|:---|
+| 7 | Hangman | Completed | [Day 7](./day_7/) |
 | 8 | Caesar Cipher | Completed | [Day 8](./day_8/) |
 | 9 | Secret Auction | Completed | [Day 9](./day_9/) |
 | 10 | Calculator | Completed | [Day 10](./day_10/) |
