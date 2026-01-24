@@ -18,6 +18,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 10 | Calculator | Completed | [Day 10](./day_10/) |
 | 11 | Blackjack Capstone | Completed | [Day 11](./day_11/) |
 | 12 | Number Guessing Game | Completed | [Day 12](./day_12/) |
+| 13 | Debugging | Completed | [Day 13](./day_13/) |
 
 ## Goals
 - Build consistency.
