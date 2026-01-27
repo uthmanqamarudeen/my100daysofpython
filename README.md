@@ -21,6 +21,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 13 | Debugging | Completed | [Day 13](./day_13/) |
 | 14 | Higher Lower Game | Completed | [Day 14](./day_14/) |
 | 15 | Coffee Machine | Completed | [Day 15](./day_15/) |
+| 16 | OOP Coffee Machine | Completed | [Day 16](./day_16/) |
 
 ## Goals
 - Build consistency.
