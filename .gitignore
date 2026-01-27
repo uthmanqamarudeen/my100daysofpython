@@ -30,3 +30,6 @@ MANIFEST
 venv/
 env/
 ENV/
+
+# JetBrains IDE
+.idea/
