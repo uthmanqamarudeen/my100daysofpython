@@ -26,6 +26,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 18 | Turtle Graphics | Completed | [Day 18](./day_018/) |
 | 19 | Event Listeners | Completed | [Day 19](./day_019/) |
 | 20 | Snake Game (Part 1) | Completed | [Day 20](./day_020/) |
+| 21 | Snake Game (Final) | Completed | [Day 21](./day_021/) |
 
 ## Goals
 - Build consistency.
