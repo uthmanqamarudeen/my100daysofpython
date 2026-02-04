@@ -8,15 +8,7 @@ screen.title("My Snake Game!")
 screen.bgcolor("black")
 screen.tracer(0)
 
-# snake_segments = []
-# x_pos = 0
-# for i in range(3):
-#     new_snake_segment = Turtle("square")
-#     new_snake_segment.color("white")
-#     new_snake_segment.penup()
-#     new_snake_segment.goto(x=x_pos, y=0)
-#     x_pos -= 20
-#     snake_segments.append(new_snake_segment)
+
 snake = Snake()
 
 screen.listen()
