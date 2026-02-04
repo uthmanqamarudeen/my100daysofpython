@@ -14,7 +14,7 @@
 
 ## How to Run
 ```bash
-cd snake-game
+cd snake-game-part-1
 python main.py
 ```
 
