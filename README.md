@@ -27,6 +27,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 19 | Event Listeners | Completed | [Day 19](./day_019/) |
 | 20 | Snake Game (Part 1) | Completed | [Day 20](./day_020/) |
 | 21 | Snake Game (Final) | Completed | [Day 21](./day_021/) |
+| 22 | Pong Game | Completed | [Day 22](./day_022/) |
 
 ## Goals
 - Build consistency.
