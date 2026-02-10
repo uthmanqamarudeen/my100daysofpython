@@ -30,6 +30,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 22 | Pong Game | Completed | [Day 22](./day_022/) |
 | 23 | Turtle Crossing | Completed | [Day 23](./day_023/) |
 | 24 | Files & Paths | Completed | [Day 24](./day_024/) |
+| 25 | CSV & Pandas | Completed | [Day 25](./day_025/) |
 
 ## Goals
 - Build consistency.
