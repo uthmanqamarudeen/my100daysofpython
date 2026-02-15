@@ -32,6 +32,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 24 | Files & Paths | Completed | [Day 24](./day_024/) |
 | 25 | CSV & Pandas | Completed | [Day 25](./day_025/) |
 | 26 | List Comprehension | Completed | [Day 26](./day_026/) |
+| 27 | Tkinter & GUI | Completed | [Day 27](./day_027/) |
 
 ## Goals
 - Build consistency.
