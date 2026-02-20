@@ -33,6 +33,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 25 | CSV & Pandas | Completed | [Day 25](./day_025/) |
 | 26 | List Comprehension | Completed | [Day 26](./day_026/) |
 | 27 | Tkinter & GUI | Completed | [Day 27](./day_027/) |
+| 28 | Pomodoro Timer | Completed | [Day 28](./day_028/) |
 
 ## Goals
 - Build consistency.
