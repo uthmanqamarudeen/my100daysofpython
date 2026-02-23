@@ -36,6 +36,7 @@ This repository documents my journey through the "100 Days of Code: The Complete
 | 28 | Pomodoro Timer | Completed | [Day 28](./day_028/) |
 | 29 | Password Manager | Completed | [Day 29](./day_029/) |
 | 30 | Errors & JSON | Completed | [Day 030](./day_030/) |
+| 31 | Flash Card Project | Completed | [Day 031](./day_031/) |
 
 ## Goals
 - Build consistency.
